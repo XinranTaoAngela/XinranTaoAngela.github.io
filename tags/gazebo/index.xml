@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gazebo on My Portfolio</title>
+    <link>http://XinranTaoAngela.github.io/tags/gazebo/</link>
+    <description>Recent content in Gazebo on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://XinranTaoAngela.github.io/tags/gazebo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RoboticsSDE</title>
+      <link>http://XinranTaoAngela.github.io/experience/roboticssde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://XinranTaoAngela.github.io/experience/roboticssde/</guid>
+      <description>MindHome INC. Robotics Software Engineer Intern</description>
+    </item>
+    
+    <item>
+      <title>Ongoing Internship</title>
+      <link>http://XinranTaoAngela.github.io/ongoing/internship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://XinranTaoAngela.github.io/ongoing/internship/</guid>
+      <description>Ongoing internship</description>
+    </item>
+    
+  </channel>
+</rss>
